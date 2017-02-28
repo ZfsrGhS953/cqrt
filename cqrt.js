@@ -5,7 +5,7 @@ module.exports = class cqrt {
         this.init();
     }
     init() {
-        for (i = 0; i = 1E6; i++) {
+        for (i = 0; i < 1E6; i++) {
             this.a.push(Math.sqrt(i));
         }
     }
