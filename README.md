@@ -8,6 +8,4 @@ cqrt = new _cqrt();
 cqrt.sqrt(num);
 ```
 
-###### ------------------------
 ###### Idea from fastSqares.js
-###### ------------------------
